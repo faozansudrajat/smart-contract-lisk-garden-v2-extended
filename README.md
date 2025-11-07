@@ -1,0 +1,5 @@
+Contract yang sudah di-deploy:
+
+GardenToken: 0x929d5d3211da87218fa3F60b144238e4d7eE1e43
+
+LiskGardenV2: 0xe9e9BF4A7C63d5c809E0bA8A8b650fA0e62AB4d7
